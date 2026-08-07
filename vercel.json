@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/vela_especificacao_completa.html" }
+    { "source": "/(.*)", "destination": "/vela_dashboard.html" }
   ]
 }
